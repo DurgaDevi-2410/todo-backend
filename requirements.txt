@@ -3,3 +3,4 @@ mysqlclient
 django-cors-headers
 whitenoise
 djangorestframework
+djangorestframework-simplejwt
